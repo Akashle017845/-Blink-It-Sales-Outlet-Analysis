@@ -14,23 +14,23 @@ The primary goal of this project is to analyze BlinkIt's retail sales data acros
 
 - Converted categorical features for visualization.
 
-# Data Cleaning
+## Data Cleaning
 - Standardized fat content labels
 
 - Handled missing weights and sizes
 
 - Converted visibility outliers
 
-## Business & Chart Analysis
+# Business & Chart Analysis
 
-# Sales Distribution Analysis
+## Sales Distribution Analysis
 - By Item Fat Content (Bar chart & Box plot)
 
 - By Product Type
 
 - Fat Content vs Product Type (Stacked bar)
 
-# Outlet Characteristics
+## Outlet Characteristics
 - Sales by Outlet Type and Size
 
 - Sales by Outlet Location Type
@@ -39,14 +39,14 @@ The primary goal of this project is to analyze BlinkIt's retail sales data acros
 
 - Combined analysis: Outlet Type + Outlet Size
 
-# Visibility Analysis
+## Visibility Analysis
 - Histogram of Item Visibility
 
 - Scatter Plot of Visibility vs Sales
 
 - Correlation between Visibility & Sales by Product Type
 
-# Key Insights
+## Key Insights
 - Low Fat items have slightly higher average sales, but both types are widely sold.
 
 - Product Type strongly impacts total sales — certain categories outperform others significantly.
