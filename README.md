@@ -6,8 +6,8 @@ The primary goal of this project is to analyze BlinkIt's retail sales data acros
 # Dataset
 - <a href="https://github.com/Akashle017845/-Blink-It-Sales-Outlet-Analysis/blob/main/blinkit_data.csv">Dataset</a>
 
-## Analysis Performed
-# General Exploratory Analysis
+# Analysis Performed
+## General Exploratory Analysis
 - Loaded and sampled the dataset.
 
 - Checked for null values and cleaned them.
